@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="click_me">Нажми на меня!</string>
+    <string name="welcome">Добро пожаловать)</string>
+    <string name="back">Вернуться</string>
+    <string name="test">Логин</string>
+</resources>
